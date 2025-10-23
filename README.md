@@ -38,6 +38,7 @@
 ---
 
 ## Estructura del proyecto
+```bash
 Mi_asistente_snake/
 │
 ├─ backend/
@@ -55,13 +56,14 @@ Mi_asistente_snake/
 │
 ├─ main.py # Punto de entrada de la aplicación
 └─ requirements.txt # Dependencias del proyecto
+```
 ## Mejoras planeadas
 
 - Modo de chat “rol definido” donde el asistente se comporte según un system prompt predefinido.
 
 - Integración de un historial global con búsqueda y filtros.
 ## Demostración
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7EG01CCD1PA?si=7gwhoNr6iiKS9odb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/7EG01CCD1PA?si=rxHOds6Y9kCIFDiV
 ## Licencia
 
 MIT License © 2025 - Javier Aguirre
